@@ -1,0 +1,24 @@
+[
+    {
+        "name" : "Detecting abnormal LEDs from a panel",
+        "description" : "Detecting abnormal LEDs from a panel"
+    },
+    {
+        "name" : "Detecting scratch in a label",
+        "description" : "Detecting scratch in a label"
+    },
+    {
+        "name" : "A Chatbot to automatically download and send data to groups",
+        "description" : "Developing a Chatbot to automatically download data and send data to a group",
+        "link" : "https://github.com/"
+    },
+    {
+        "name" : "Project 4",
+        "description" : "",
+        "link" : "https://github.com/"
+    },
+    {
+        "name" : "Project 5",
+        "description" : ""
+    }
+]
